@@ -1,4 +1,4 @@
-# logApp
+# logApp :bookmark_tabs:
 
 
 
@@ -47,5 +47,7 @@ Completed tasks are the following:
 ---
 
 
-### Author: Circa Kate Bartolata
+### Author: Circa Kate Bartolata:wink:
 <img src="logApp-Bartolata/../img&vid/author.jpg" width="275" height="300" alt="">
+
+:wink:
