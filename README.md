@@ -44,5 +44,8 @@ Completed task are the following:
 ## Guestbook List
 ![guestlist](logApp-Bartolata/../img&vid/Guestbook-list.png)
 
+---
 
 
+## Author: Circa Kate Bartolata
+<img src="logApp-Bartolata/../img&vid/author.jpg" width="275" height="300" alt="">
