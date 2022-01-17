@@ -16,5 +16,33 @@ Completed task are the following:
   * display the list of logs
   * register or log the individual's personal information
 * HTML
-  * footer.php - replace the link, direct it to your github account
+  * footer.php - replace the link, direct it to my github account
   ###
+
+
+---
+$~$
+
+## Log in Page 
+![login](logApp-Bartolata/../img%20&%20vid/Login.png)
+
+## Log in Demonstration 
+![login demo](logApp-Bartolata/../img%20&%20vid/login.gif)
+
+---
+$~$
+
+## Registration Page
+![Registration page](logApp-Bartolata/../img%20&%20vid/Registration.png)
+
+## Registration Demo
+![Registration Demo](logApp-Bartolata/../img%20&%20vid/registration.gif)
+
+---
+$~$
+
+## Guestbook List
+![guestlist](logApp-Bartolata/../img%20&%20vid/Guestbook-list.png)
+
+
+
