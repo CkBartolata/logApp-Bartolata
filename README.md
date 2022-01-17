@@ -21,7 +21,7 @@ Completed task are the following:
 
 
 ---
-$~$
+
 
 ## Log in Page 
 ![login](logApp-Bartolata/../img&vid/Login.png)
@@ -30,7 +30,7 @@ $~$
 ![login demo](logApp-Bartolata/../img&vid/login.gif)
 
 ---
-$~$
+
 
 ## Registration Page
 ![Registration page](logApp-Bartolata/../img&vid/Registration.png)
@@ -39,7 +39,7 @@ $~$
 ![Registration Demo](logApp-Bartolata/../img&vid/registration.gif)
 
 ---
-$~$
+
 
 ## Guestbook List
 ![guestlist](logApp-Bartolata/../img&vid/Guestbook-list.png)
