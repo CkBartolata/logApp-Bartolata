@@ -24,25 +24,25 @@ Completed task are the following:
 $~$
 
 ## Log in Page 
-![login](logApp-Bartolata/../img%20&%20vid/Login.png)
+![login](logApp-Bartolata/../img&vid/Login.png)
 
 ## Log in Demonstration 
-![login demo](logApp-Bartolata/../img%20&%20vid/login.gif)
+![login demo](logApp-Bartolata/../img&vid/login.gif)
 
 ---
 $~$
 
 ## Registration Page
-![Registration page](logApp-Bartolata/../img%20&%20vid/Registration.png)
+![Registration page](logApp-Bartolata/../img&vid/Registration.png)
 
 ## Registration Demo
-![Registration Demo](logApp-Bartolata/../img%20&%20vid/registration.gif)
+![Registration Demo](logApp-Bartolata/../img&vid/registration.gif)
 
 ---
 $~$
 
 ## Guestbook List
-![guestlist](logApp-Bartolata/../img%20&%20vid/Guestbook-list.png)
+![guestlist](logApp-Bartolata/../img&vid/Guestbook-list.png)
 
 
 
